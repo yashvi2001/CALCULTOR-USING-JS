@@ -1,1 +1,1 @@
-# CALCULTOR-USING-JS-
+#   Its a normal calculator created using JavaScript!
